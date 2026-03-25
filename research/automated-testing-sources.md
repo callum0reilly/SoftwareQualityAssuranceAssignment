@@ -1,7 +1,5 @@
 # Automated Testing research sources
 
-# Code Reviews - Sources
-
 ## Source 1
 - Title:
 - Link:
