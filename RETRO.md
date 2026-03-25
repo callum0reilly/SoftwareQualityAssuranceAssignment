@@ -6,4 +6,4 @@
 
 ## What We Would Do Differently
 
-- Testing merging rules
+- Test comment to test merge validation rules
