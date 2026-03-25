@@ -5,3 +5,5 @@
 ## What Didn't Go Well
 
 ## What We Would Do Differently
+
+- Testing merging rules
