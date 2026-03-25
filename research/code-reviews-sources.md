@@ -1,36 +1,35 @@
 # Code Reviews research sources
 
+# Code Reviews - Sources
+
 ## Source 1
 - Title:
 - Link:
-- Key notes:
+- Key takeaway:
 
 ## Source 2
 - Title:
 - Link:
-- Key notes:
+- Key takeaway:
 
 ## Source 3
 - Title:
 - Link:
-- Type:
-- Key notes:
+- Key takeaway:
 
 ## Source 4
 - Title:
 - Link:
-- Type:
-- Key notes:
+- Key takeaway:
 
 ## Source 5
 - Title:
 - Link:
-- Type:
-- Key notes:
+- Key takeaway:
 
 ---
 
-## Common Things to look out for
+## Common things we noticed
 - 
 -
 -
