@@ -9,7 +9,7 @@
 - Describe every step and expected results of a test before writing any code.
 - Keep test cases maintainable (and easy to understand)
 - Use API calls to automate tasks which saves time and avoids flakiness
-- Keep each page of your application is represented by a separate object in your code (it keeps tests more organized)
+- Use the object pattern. With this pattern, each page of your application is represented by a separate object in your code (it keeps tests more organized)
 - Apply inheritance for shared page elements
 - Group shared components
 - Beneficial to create helper methods for tasks that are frequently performed across different tests.
@@ -29,7 +29,7 @@
 ## Link: https://dev.to/sureshayyanna/best-practices-for-writingautomation-test-code-1laa
 ## Key points:
 - Follow OOPs Concepts if possible
-- Reduce code duplicty (think before writing new code)
+- Reduce code duplicity (think before writing new code)
 - Focus on making your code scalable and faster without compromising code quality
 - Code should be platform and system independent
 - Dont have any hardcoded data in source code
