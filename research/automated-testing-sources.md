@@ -32,7 +32,7 @@
 - Reduce code duplicity (think before writing new code)
 - Focus on making your code scalable and faster without compromising code quality
 - Code should be platform and system independent
-- Dont have any hardcoded data in source code
+- Don't have any hardcoded data in source code
 - Think for the future
 - Use proper documentation
 - Create code which can be easily read and modified by others
@@ -41,14 +41,13 @@
 ## Title: Automation Testing Best Practices
 ## Link: https://www.reddit.com/r/softwaretesting/comments/1bhpiaj/automation_testing_best_practices/
 ## Key points:
-- Prevent flakey tests by stress testing newly created tests
-- Dont be afraid to add data attributes to the codebase to make tests more robust
+- Prevent flaky tests by stress testing newly created tests
+- Don't be afraid to add data attributes to the codebase to make tests more robust
 - Automation should be part of dev culture
 - Use good names for variables
 - Use comments but sparingly. The test name and variables should tell what is happening
-- Dont overload the test method. Keep it neat
+- Don't overload the test method. Keep it neat
 - Make each test modular
-- 
 
 # Source 5
 ## Title: Best Practices for Test Automation : Checklist
@@ -65,7 +64,7 @@
 - Keep all tests organized for maintainability and organisation
 - Keep everything easy to read (logging statements could help or good variable naming standards)
 - Think about the future (define goals and strategy first). Don't just think "does it work now?"
-- Avoid flaky tests by stress tesing new tests to ensure stability
+- Avoid flaky tests by stress testing new tests to ensure stability
 - Use OOP concepts
 - Clear documentation of test cases and expected results makes debugging and collaboration easier
 - Tasks should be matched to team skill levels
@@ -74,7 +73,7 @@
 
 ## Notes
 - Documentation will be very important
-- Should avoid flakey tests
+- Should avoid flaky tests
 - Reuse code and avoid duplication to improve maintainability
 - Tests should be designed with future changes in mind
 - Good naming conventions help make tests easier to understand
