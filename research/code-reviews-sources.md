@@ -14,7 +14,10 @@
 - Link: https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/
 - Key takeaway:
     - Reviews work best when they are small, slow enough to be careful, and not too long in one sitting.
-    - Teams should set goals and track simple metrics to see if reviews are actually useful.
+    - Teams should set goals and track simple metrics to see if reviews are actually useful, such as:
+        - Inspection rate: how quickly code is reviewed
+        - Defect rate: how often defects are found
+        - Defect density: how many defects are found in a given amount of code
     - Authors should give context before review, and teams should have a clear process for fixing issues found.
     - A positive and non-threatening review culture is important for learning, teamwork, and better code quality.
 
@@ -41,17 +44,16 @@
 - Link: https://google.github.io/eng-practices/review/reviewer/
 - Key takeaway:
     - The main goal of code review is to improve the overall code health over time.
-    - Reviewers should approve code if it clearly improves the codebase, even if it is not perfect.
+    - Reviewers should approve code when it improves the codebase and has no serious issues, even if small improvements could still be made later.
     - Reviews should be done quickly enough that they do not block the team for too long.
     - Comments should be kind, clear, and explain the reason behind the feedback.
 
 ---
 
 ## Common things we noticed
-- Good code reviews should be clear, respectful, and helpful.
+- Good code reviews should be clear, respectful and helpful because review culture has a big impact on teamwork and confidence.
 - Smaller reviews are more effective than large ones.
 - Code reviews are not only for finding bugs, they also help learning and teamwork.
-- Review culture matters a lot because toxic reviews can hurt confidence and collaboration.
 
 ---
 
