@@ -5,6 +5,19 @@ Created by **Group 10** Stela, John, Callum.
 
 ---
 
+## Contributing
+
+This repo uses [pre-commit](https://pre-commit.com/) to enforce markdown formatting. After cloning, run:
+
+```bash
+pip install pre-commit
+pre-commit install
+```
+
+This will block commits that fail markdownlint checks.
+
+---
+
 ## Handbook
 
 [Handbook](HANDBOOK.md)
