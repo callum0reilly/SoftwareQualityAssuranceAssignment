@@ -2,18 +2,16 @@
 
 ## Why This Matters
 
-Code reviews matter because they help catch problems before code is merged and improve the overall quality of the project. They also support teamwork by helping developers share knowledge, give useful feedback, and build confidence in the codebase.
+- Code reviews help catch problems before code is merged and improve the overall quality of the project.
+- They also support teamwork by helping developers share knowledge, give useful feedback, and build confidence in the codebase.
 
 ## What Good Code Reviews Look Like
 
 - **Keep pull requests small**  
   Smaller pull requests are easier to review properly and make it less likely that bugs or weak design choices will be missed.
 
-- **Give clear and helpful feedback**  
-  Good comments explain what the issue is, why it matters, and what could be improved instead of only saying something is wrong.
-
-- **Be respectful and constructive**  
-  Reviews should focus on the code, not the person who wrote it. A respectful tone helps create a healthier review culture and makes feedback easier to accept.
+- **Give clear, respectful, and constructive feedback**  
+  Good comments explain what the issue is, why it matters, and what could be improved. Reviews should focus on the code, not the person, so feedback is easier to accept and more useful.
 
 - **Use reviews as a learning tool**  
   Code reviews are not only for finding mistakes. They also help team members learn from each other and understand more parts of the project.
@@ -23,9 +21,6 @@ Code reviews matter because they help catch problems before code is merged and i
 
 - **Set clear review goals**  
   Reviewers should know what they are checking for, such as readability, logic, maintainability, or performance, so the review stays focused.
-
-- **Ask questions when needed**  
-  Asking questions is a useful habit in reviews because it checks assumptions and encourages discussion instead of only giving commands.
 
 - **Follow up on issues raised**  
   A review is only useful if the problems found are actually fixed. Teams should make sure there is proper follow-up before the code is merged.
@@ -57,9 +52,14 @@ Code reviews matter because they help catch problems before code is merged and i
   Delayed reviews can slow progress and create a backlog of pull requests waiting for feedback.
 
 - **Using different standards each time**  
-  If every reviewer checks for different things, the process becomes inconsistent. A shared checklist can make reviews more fair and useful.
+  If every reviewer checks for different things, the process becomes inconsistent. A shared checklist can make reviews fairer and more useful.
 
 ## Key Takeaways
+
+- Good code reviews should be small, clear, and focused.
+- Feedback should be helpful, respectful, and explain the reason behind suggestions.
+- Reviews work best when they happen quickly and are followed up properly.
+- Teams should use reviews to improve both code quality and shared knowledge.
 
 ## Diagram
 
@@ -73,23 +73,31 @@ Code reviews matter because they help catch problems before code is merged and i
 
 ## Further Reading
 
-- **Atlassian — *5 Code Review Best Practices***  
-  Useful for practical advice on structured and helpful review habits.
+- Atlassian — *5 Code Review Best Practices*
+    - Practical advice on structured and helpful review habits.
+    - [https://www.atlassian.com/blog/add-ons/code-review-best-practices](https://www.atlassian.com/blog/add-ons/code-review-best-practices)
 
-- **SmartBear — *Best Practices for Peer Code Review***  
-  Good for understanding review process, metrics, and team culture.
+- SmartBear — *Best Practices for Peer Code Review*
+    - Good for understanding review process, metrics, and team culture.
+    - [https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/](https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/)
 
-- **GitHub Blog — *How to Review Code Effectively***  
-  Adds a strong focus on clear comments, quick feedback, and useful reviewer habits.
+- GitHub Blog — *How to Review Code Effectively*
+    - Focuses on clear comments, quick feedback, and useful reviewer habits.
+    - [https://github.blog/developer-skills/github/how-to-review-code-effectively-a-github-staff-engineers-philosophy/](https://github.blog/developer-skills/github/how-to-review-code-effectively-a-github-staff-engineers-philosophy/)
 
-- **Mergify — *Code Review: Culture, Flow, and Practices That Drive Team Performance***  
-  Helpful for understanding the teamwork and knowledge-sharing side of reviews.
+- Mergify — *Code Review: Culture, Flow, and Practices That Drive Team Performance*
+    - Helpful for the teamwork and knowledge-sharing side of reviews.
+    - [https://mergify.com/blog/code-review-culture-flow-and-practices-that-drive-team-performance](https://mergify.com/blog/code-review-culture-flow-and-practices-that-drive-team-performance)
 
-- **Google Engineering Practices — *The Standard of Code Review***  
-  Strong source for review standards and the idea of improving code health over time.
+- Google Engineering Practices — *The Standard of Code Review*
+    - Strong source for review standards and improving code health over time.
+    - [https://google.github.io/eng-practices/review/reviewer/](https://google.github.io/eng-practices/review/reviewer/)
 
-- **YouTube — *Better Code Reviews in 6 Simple Steps***  
-  Gives simple and practical tips on keeping reviews focused and useful.
+- YouTube — *Better Code Reviews in 6 Simple Steps*
+    - Simple and practical tips on keeping reviews focused and useful.
+    - [https://www.youtube.com/watch?v=d9_fweNDjKw](https://www.youtube.com/watch?v=d9_fweNDjKw)
 
-- **Parasoft — *Eliminate These 7 Bad Habits for More Effective Peer Code Reviews***  
-  Useful for identifying common mistakes and anti-patterns in review culture.
+- Parasoft — *Eliminate These 7 Bad Habits for More Effective Peer Code Reviews*
+    - Useful for spotting common mistakes and anti-patterns in review culture.
+    - [https://www.parasoft.com/blog/avoid-ineffective-code-reviews-by-eliminating-these-7-bad-habits/](https://www.parasoft.com/blog/avoid-ineffective-code-reviews-by-eliminating-these-7-bad-habits/)
+  
