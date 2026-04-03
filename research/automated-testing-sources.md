@@ -58,15 +58,6 @@
 - Regular Maintenance: Continuously refactor tests and remove obsolete or redundant scripts.
 - No Code Duplication: Reuse code components to avoid unnecessary repetition and improve maintainability.
 
-## Source 6
-- Title:
-- Link:
-- Key Takeaway:
-
-## Source 7
-- Title:
-- Link:
-- Key Takeaway:
 ---
 
 ## Common things we noticed
