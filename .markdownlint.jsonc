@@ -1,0 +1,14 @@
+{
+  // Enable all rules by default
+  "default": true,
+
+  // MD007: Unordered list indentation, require 4 spaces
+  "MD007": { "indent": 4 },
+
+  // MD013: Line length, disabled, no hard line length limit
+  "MD013": false,
+
+  // MD024: Multiple headings with the same content, disabled, each section uses
+  // the same sub headings (like "Why This Matters")
+  "MD024": false
+}

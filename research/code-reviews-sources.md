@@ -3,7 +3,7 @@
 ## Source 1
 
 - Title: 5 code review best practices
-- Link: https://www.atlassian.com/blog/add-ons/code-review-best-practices
+- Link: <https://www.atlassian.com/blog/add-ons/code-review-best-practices>
 - Key takeaway:
     - Use a checklist to make reviews more structured and consistent.
     - Reviewers should explain why a change is needed, not just say what is wrong.
@@ -13,7 +13,7 @@
 ## Source 2
 
 - Title: Best Practices for Peer Code Review
-- Link: https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/
+- Link: <https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/>
 - Key takeaway:
     - Reviews work best when they are small, slow enough to be careful, and not too long in one sitting.
     - Teams should set goals and track simple metrics to see if reviews are actually useful, such as:
@@ -26,7 +26,7 @@
 ## Source 3
 
 - Title: How to review code effectively: A GitHub staff engineer's philosophy
-- Link: https://github.blog/developer-skills/github/how-to-review-code-effectively-a-github-staff-engineers-philosophy/
+- Link: <https://github.blog/developer-skills/github/how-to-review-code-effectively-a-github-staff-engineers-philosophy/>
 - Key takeaway:
     - Good code reviews are clear, specific, and help move the code into a better state.
     - Review comments should explain the issue clearly and say whether something is a blocker or just a suggestion.
@@ -36,7 +36,7 @@
 ## Source 4
 
 - Title: Code Review: Culture, Flow, and Practices That Drive Team Performance
-- Link: https://mergify.com/blog/code-review-culture-flow-and-practices-that-drive-team-performance
+- Link: <https://mergify.com/blog/code-review-culture-flow-and-practices-that-drive-team-performance>
 - Key takeaway:
     - Code review is not just for catching mistakes, it also helps with knowledge sharing and team ownership of the code.
     - Pull requests should be kept small and clearly explained so they are easier to review.
@@ -46,7 +46,7 @@
 ## Source 5
 
 - Title: How to do a code review / The Standard of Code Review
-- Link: https://google.github.io/eng-practices/review/reviewer/
+- Link: <https://google.github.io/eng-practices/review/reviewer/>
 - Key takeaway:
     - The main goal of code review is to improve the overall code health over time.
     - Reviewers should approve code when it improves the codebase and has no serious issues, even if small improvements could still be made later.

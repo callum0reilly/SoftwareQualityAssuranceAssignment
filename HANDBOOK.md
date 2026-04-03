@@ -1,4 +1,4 @@
-# # Software Quality Assurance Team Handbook - Group 10
+# Software Quality Assurance Team Handbook - Group 10
 
 ## Introduction
 

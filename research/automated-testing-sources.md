@@ -3,7 +3,7 @@
 ## Source 1
 
 - Title: 14 Test Automation Best Practices
-- Link: https://medium.com/jagaad/14-test-automation-best-practices-ffd56880f20e
+- Link: <https://medium.com/jagaad/14-test-automation-best-practices-ffd56880f20e>
 - Key points:
     - Start with a strategy: Define clear objectives and goals (Talk to the people who know the application best)
     - Group tests based on topics, functionalities or pages of the application. Example: have a set for testing login functionality and another for testing payment features.
@@ -19,7 +19,7 @@
 ## Source 2
 
 - Title: Test Automation Best Practices
-- Link: https://smartbear.com/learn/automated-testing/best-practices-for-automation/
+- Link: <https://smartbear.com/learn/automated-testing/best-practices-for-automation/>
 - Key points:
     - Decide what Test cases to automate
     - Select the right testing tool
@@ -29,7 +29,7 @@
 ## Source 3
 
 - Title: Best Practices For Writing Automation Test Code
-- Link: https://dev.to/sureshayyanna/best-practices-for-writingautomation-test-code-1laa
+- Link: <https://dev.to/sureshayyanna/best-practices-for-writingautomation-test-code-1laa>
 - Key points:
     - Follow OOPs Concepts if possible
     - Reduce code duplicity (think before writing new code)
@@ -43,7 +43,7 @@
 ## Source 4
 
 - Title: Automation Testing Best Practices
-- Link: https://www.reddit.com/r/softwaretesting/comments/1bhpiaj/automation_testing_best_practices/
+- Link: <https://www.reddit.com/r/softwaretesting/comments/1bhpiaj/automation_testing_best_practices/>
 - Key points:
     - Prevent flaky tests by stress testing newly created tests
     - Don't be afraid to add data attributes to the codebase to make tests more robust
@@ -56,7 +56,7 @@
 ## Source 5
 
 - Title: Best Practices for Test Automation: Checklist
-- Link: https://www.browserstack.com/guide/test-automation-standards-and-checklist
+- Link: <https://www.browserstack.com/guide/test-automation-standards-and-checklist>
 - Key points:
     - Focus on Documentation: Ensure clear documentation for test cases and frameworks.
     - Keep It Simple: Write modular, atomic tests to maintain clarity and ease of updates.
