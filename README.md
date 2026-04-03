@@ -5,6 +5,25 @@ Created by **Group 10** Stela, John, Callum.
 
 ---
 
+## Contributing
+
+This repo uses [pre-commit](https://pre-commit.com/) to enforce markdown formatting via `.markdownlint.jsonc`. After cloning, run:
+
+```bash
+pip install pre-commit
+pre-commit install
+```
+
+The hook runs automatically on `git commit` and blocks commits that fail markdownlint checks.
+
+To run the linter manually against all files:
+
+```bash
+pre-commit run --all-files
+```
+
+---
+
 ## Handbook
 
 [Handbook](HANDBOOK.md)
