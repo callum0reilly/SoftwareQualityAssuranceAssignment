@@ -54,8 +54,9 @@
     - Comments should be kind, clear, and explain the reason behind the feedback.
 
 ## Source 6
+
 - Title: Better Code Reviews in 6 SIMPLE STEPS
-- Link: https://www.youtube.com/watch?v=d9_fweNDjKw
+- Link: <https://www.youtube.com/watch?v=d9_fweNDjKw>
 - Key Takeaway:
     - Keep reviews small (large pull requests are hard to review properly). Smaller changes lead to faster feedback
     - Think easier to understand, easier to spot problems
@@ -64,19 +65,20 @@
     - Focus on important things (Don't waste time on minor issues such as spacing or formatting mainly look at logic errors, bad design and maintainability)
     - Be constructive not critical. Don't attack the person, only the code. Explain why something should change. Suggest improvements don't just say "this is wrong".
     - Use reviews as a learning tool. Reviews help junior developers improve. Sharing knowledge across the team is one of the biggest benefits.
-  
+
 ## Source 7
+
 - Title: Eliminate These 7 Bad Habits for More Effective Peer Code Reviews
-- Link: https://www.parasoft.com/blog/avoid-ineffective-code-reviews-by-eliminating-these-7-bad-habits/
+- Link: <https://www.parasoft.com/blog/avoid-ineffective-code-reviews-by-eliminating-these-7-bad-habits/>
 - Key Takeaway:
     - Underutilizing tools in peer code reviews. You shouldn't be reviewing or looking for anything that can be done by static analysis. For example style issues like curly placement. If a tool can find it for you, let it. Free yourself to look deeper into the algorithm, security, and performance characteristics of the code. Do clever work not tedious work.
     - Reviewing unfinished code. Don't use the logic of "I’m not done yet, but we’ve already scheduled a review so let’s at least look at what we have." Make sure the code author is finished, and if they’re not ready yet, postpone until they are.
     - Overextending peer code review sessions. Lengthy code review sessions can be counterproductive. It’s important to set reasonable limits on the scope and duration of each review to maintain focus and productivity. Long, exhaustive reviews can lead to fatigue, reduced attention to detail, and a slower development process. If reviews take more than an hour, you’re probably trying to review too much at once.
     - Personalising peer code review feedback. A peer review is about the code, not the people. Make sure you’re talking about the code and not the developer. A statement like, "This code won’t scale as well as we need" is less likely to offend than, "You wrote this badly."
     - Procrastinating peer code reviews
-    - Most software quality practices should be treated like exercise. If you try binge them at the last moment, they won't be effective. 
-    - Inconsistent follow up in peer code review processes. How a review is followed up can greatly affect the value of the review. If you find items during a review and don’t check that they’re fixed, you’re probably wasting your time. Make sure everyone knows what is expected of them and follow up to make sure fixes are being made. 
-    - If nothing is found in the review, be critical. While this can happen from time to time, it should certainly make you suspicious. It may be a sign of quid-pro-quo reviews occurring between developers, or a sign that your development doesn’t understand the value behind code reviews or how to do them properly. 
+    - Most software quality practices should be treated like exercise. If you try binge them at the last moment, they won’t be effective.
+    - Inconsistent follow up in peer code review processes. How a review is followed up can greatly affect the value of the review. If you find items during a review and don’t check that they’re fixed, you’re probably wasting your time. Make sure everyone knows what is expected of them and follow up to make sure fixes are being made.
+    - If nothing is found in the review, be critical. While this can happen from time to time, it should certainly make you suspicious. It may be a sign of quid-pro-quo reviews occurring between developers, or a sign that your development doesn’t understand the value behind code reviews or how to do them properly.
     - Inconsistent criteria for peer code reviews. If each reviewer isn’t looking for the same things, you will have no idea if your reviews are effective. Get everyone on the same page. It will improve your quality, provide the consistency necessary for assessment and improvement, and protect you if something goes wrong.
   
 ---
