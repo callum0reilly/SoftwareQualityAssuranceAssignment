@@ -70,9 +70,10 @@
 - Key points:
     - The test pyramid groups tests by granularity: many fast unit tests at the base, fewer integration tests in the middle, and fewest UI/end-to-end tests at the top, this keeps speed and maintainability.
     - Prioritise unit tests for isolated code units using mocks/stubs to avoid external dependencies like databases or APIs, keeping tests fast and focused on observable behaviour.
-    - Balance matters: high level tests are expensive, slow, and prone to flakiness. Too many leads to an "ice-cream cone" anti pattern that is hard to maintain.
+    - Balance matters: high level tests are expensive, slow, and prone to flakiness. Too many leads to an "ice-cream cone" anti-pattern that is hard to maintain.
     - Use integration tests narrowly for boundaries (e.g. database writes, API calls with test doubles) to verify serialisation without full end-to-end overhead.
     - Avoid duplicating test coverage across layers; replicate high-level bugs with unit tests first to strengthen the lower levels of the pyramid.
+    - This is good practice, it provides balanced, maintainable testing with fast feedback.
 
 ## Source 7
 
@@ -82,8 +83,8 @@
     - The "cupcake" anti-pattern occurs when teams have many unit/integration tests at the base but pile excessive GUI automated tests and manual tests on top, creating a top heavy, slow test suite.
     - Separate developer, GUI tester, and manual tester teams working in isolation creates a "mini waterfall": delays, poor collaboration, and misaligned test coverage.
     - Siloed teams duplicate effort, the same scenarios get automated independently at unit, GUI, and manual layers with no coordination.
-    - Fix: collaborate via "cross role pairing" and "story kickoffs" (e.g Three Amigos), and always test at the lowest possible level for speed and reliability.
-    - Align on shared vertical metrics (e.g 90% automation per story across all levels) rather than siloed counts, merging roles where possible for unified ownership.
+    - Fix: collaborate via "cross role pairing" and "story kickoffs" (e.g. Three Amigos), test at the lowest possible level for speed, and align on shared vertical metrics (e.g. 90% automation per story) rather than siloed counts for unified ownership.
+    - This is an anti-pattern (bad practice), it leads to slow, expensive, poorly coordinated testing.
 
 ---
 
