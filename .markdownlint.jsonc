@@ -10,5 +10,8 @@
 
   // MD024: Multiple headings with the same content, disabled, each section uses
   // the same sub headings (like "Why This Matters")
-  "MD024": false
+  "MD024": false,
+
+  // MD033: Inline HTML, allow <br> for line breaks in tables
+  "MD033": { "allowed_elements": ["br"] }
 }
