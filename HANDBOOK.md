@@ -51,12 +51,12 @@
 
 ## Code Reviews
 
-## Why This Matters
+### Why This Matters
 
 - Code reviews help catch problems before code is merged and improve the overall quality of the project.
 - They also support teamwork by helping developers share knowledge, give useful feedback, and build confidence in the codebase.
 
-## What Good Code Reviews Look Like
+### What Good Code Reviews Look Like
 
 - **Keep pull requests small**  
   Smaller pull requests are easier to review properly and make it less likely that bugs or weak design choices will be missed.
@@ -79,7 +79,7 @@
 - **Use tools for simple checks**  
   Formatting and style issues can often be checked by automatic tools, giving reviewers more time to focus on deeper issues like logic, structure, and security.
 
-## Common Code Review Traps
+### Common Code Review Traps
 
 - **Reviewing very large changes at once**  
   Large pull requests are harder to review carefully and often lead to rushed feedback or missed issues.
@@ -105,14 +105,14 @@
 - **Using different standards each time**  
   If every reviewer checks for different things, the process becomes inconsistent. A shared checklist can make reviews fairer and more useful.
 
-## Key Takeaways
+### Key Takeaways
 
 - Good code reviews should be small, clear, and focused.
 - Feedback should be helpful, respectful, and explain the reason behind suggestions.
 - Reviews work best when they happen quickly and are followed up properly.
 - Teams should use reviews to improve both code quality and shared knowledge.
 
-## Diagram
+### Diagram
 
 ```mermaid
 
@@ -129,7 +129,7 @@ flowchart TD
 
 ### Review Checklist
 
-#### Functionality
+### Functionality
 
 - [ ] Code works as expected
 - [ ] Edge cases are handled
