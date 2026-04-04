@@ -63,13 +63,45 @@
 
 ## Diagram
 
--
--
+```mermaid
+
+flowchart TD
+    A[Create Branch] --> B[Open Pull Request]
+    B --> C[Automated Checks Run]
+    C --> D[Reviewer Assigned]
+    D --> E[Review Code & Leave Comments]
+    E --> F[Developer Makes Changes]
+    F --> G{Changes Approved?}
+    G -->|No| E
+    G -->|Yes| H[Merge to Main]
+```
 
 ### Review Checklist
 
--
--
+#### Functionality
+
+- [ ] Code works as expected
+- [ ] Edge cases are handled
+
+#### Readability
+
+- [ ] Code is easy to understand
+- [ ] Naming is clear and meaningful
+
+#### Design
+
+- [ ] Structure is clean and maintainable
+- [ ] No unnecessary complexity or duplication
+
+#### Testing
+
+- [ ] Tests are included or updated
+- [ ] Tests validate behaviour properly
+
+#### Impact
+
+- [ ] No unintended side effects
+- [ ] Performance is acceptable
 
 ## Further Reading
 
