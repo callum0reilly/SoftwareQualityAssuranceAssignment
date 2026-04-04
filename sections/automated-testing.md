@@ -103,4 +103,43 @@
 - Introducing the Software Testing Cupcake (Anti-Pattern)
     - [https://www.thoughtworks.com/insights/blog/introducing-software-testing-cupcake-anti-pattern](https://www.thoughtworks.com/insights/blog/introducing-software-testing-cupcake-anti-pattern)
   
-## Diagrams
+## Diagram
+
+```mermaid
+flowchart TD
+    A[Identify Test Cases] --> B[Prioritise by Value & Risk]
+    B --> C[Write Unit Tests]
+    C --> D[Write Integration Tests]
+    D --> E[Write E2E Tests]
+    E --> F[Run in CI Pipeline]
+    F --> G{All Tests Pass?}
+    G -->|No| H[Fix Failing Tests]
+    H --> F
+    G -->|Yes| I[Deploy]
+```
+
+### Testing Checklist
+
+#### Test Design
+
+- [ ] Each test covers a single behaviour
+- [ ] Tests have clear, descriptive names
+- [ ] Expected results are defined before writing the test
+
+#### Test Quality
+
+- [ ] No hardcoded data in test code
+- [ ] Tests are not flaky or timing dependent
+- [ ] No duplicated test logic
+
+#### Maintainability
+
+- [ ] Tests are grouped by feature or functionality
+- [ ] Helper methods are used for repeated tasks
+- [ ] Test code is readable without heavy commenting
+
+#### Coverage
+
+- [ ] Tests follow the testing pyramid (most unit, fewer integration, fewest E2E)
+- [ ] Bugs found at higher levels are covered by lower level tests
+- [ ] API level tests are used where possible over UI tests
