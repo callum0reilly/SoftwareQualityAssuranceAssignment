@@ -71,7 +71,7 @@
 
 ## Diagram
 
-<!-- TODO: Add mermaid diagram showing: Story -> Planning Poker -> Discuss Divergence -> Re-estimate -> Consensus -> Track Velocity -->
+![Story Points Diagram](../images/StoryPointsDiagram.png)
 
 ## Further Reading
 
