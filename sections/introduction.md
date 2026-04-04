@@ -1,6 +1,6 @@
 # Introduction
 
-This handbook explains the main ways we aim to maintain quality in our project. Its purpose is to give us a clear and practical guide to the ways of working we want to follow as a team, so that expectations are shared and good practices are easy to use in everyday development.
+This handbook explains the main ways we aim to maintain quality in our project. Its purpose is to give us a clear and practical guide to the ways of working we want to follow as a team, so that expectations are clearly defined and good practises are surfaced.
 
 The handbook is divided into three main sections:
 
