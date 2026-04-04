@@ -50,6 +50,26 @@
     - Planning poker is a structured consensus mechanism: when estimates differ widely, use those disagreements to surface technical risks, edge cases, or unclear acceptance criteria rather than rushing to a consensus number.
     - Treat discrepancies in votes (e.g 1, 5, 13) as a signal, not a problem. Take 5–10 minutes to sketch design options or run a spike before re-estimating.
 
+## Source 6
+
+- Title: Exploring Estimation Approaches: What is the Right Fit for Scrum Teams?
+- Link: <https://www.scrum.org/resources/blog/exploring-estimation-approaches-what-right-fit-scrum-teams>
+- Key takeaway:
+    - Scrum teams do not need to use one fixed estimation method, they should choose the approach that suits their work best.
+    - Estimation should help with planning and understanding the work, not create false precision.
+    - Teams should review their estimation approach regularly and change it if it is no longer useful.
+    - A good method is one that the team can use consistently and learn from over time.
+
+## Source 7
+
+- Title: Metrics
+- Link: <https://beyondleanagile.com/tag/metrics/>
+- Key takeaway:
+    - Agile teams should use measures like velocity and cycle time to understand how work is progressing.
+    - Metrics should support improvement, not just be collected for reporting.
+    - Looking at delivery patterns over time can help teams make better forecasts.
+    - Metrics should guide useful discussion, not become a distraction.
+  
 ---
 
 ## Common things we noticed
