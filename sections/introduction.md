@@ -1,1 +1,7 @@
 # Introduction
+
+This handbook sets out the software quality assurance practices used by Group 10 in a startup environment. In a small, fast-moving team, quality work needs to be practical, consistent, and easy to apply during day-to-day development. The aim of this document is to give the team a shared approach to estimating work, reviewing code, and building automated tests so that quality does not depend on individual habits alone.
+
+The handbook is written for a startup engineering team of around 20 engineers, including developers, testers, and anyone contributing to the product delivery process. It is designed to support both new and existing team members by giving clear guidance on the standards and working practices the team should follow.
+
+The document is organised into three main sections. The first covers task estimation in Scrum and explains how teams can estimate work in a way that supports planning and reduces uncertainty. The second focuses on code reviews and outlines review habits that improve code quality, collaboration, and shared ownership. The third covers automated testing and highlights practical ways to build reliable, maintainable test suites. Each section follows the same structure: why the topic matters, what good practice looks like, common traps to avoid, key takeaways, and further reading. The handbook ends with a contribution table showing each team member’s role in producing the document.
