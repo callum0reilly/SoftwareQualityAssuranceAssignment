@@ -1,7 +1,11 @@
 # Introduction
 
-This handbook sets out the software quality assurance practices used by Group 10 in a startup environment. In a small, fast-moving team, quality work needs to be practical, consistent, and easy to apply during day-to-day development. The aim of this document is to give the team a shared approach to estimating work, reviewing code, and building automated tests so that quality does not depend on individual habits alone.
+This handbook explains the main ways we aim to maintain quality in our project. Its purpose is to give us a clear and practical guide to the ways of working we want to follow as a team, so that expectations are shared and good practices are easy to use in everyday development.
 
-The handbook is written for a startup engineering team of around 20 engineers, including developers, testers, and anyone contributing to the product delivery process. It is designed to support both new and existing team members by giving clear guidance on the standards and working practices the team should follow.
+The handbook is divided into three main sections:
 
-The document is organised into three main sections. The first covers task estimation in Scrum and explains how teams can estimate work in a way that supports planning and reduces uncertainty. The second focuses on code reviews and outlines review habits that improve code quality, collaboration, and shared ownership. The third covers automated testing and highlights practical ways to build reliable, maintainable test suites. Each section follows the same structure: why the topic matters, what good practice looks like, common traps to avoid, key takeaways, and further reading. The handbook ends with a contribution table showing each team member’s role in producing the document.
+- **Task Estimation in Scrum** - how we estimate work in a consistent way so that planning is more realistic and uncertainty is reduced.
+- **Code Reviews** - how we review each other’s work to improve code quality, share knowledge and catch issues early.
+- **Automated Testing** - how we build and maintain tests that are reliable, clear and useful.
+
+Each section includes a short introduction, the main good practices to follow, bad practices to avoid and links to further reading.
