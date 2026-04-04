@@ -10,7 +10,7 @@ Created by **Group 10** Stela, John, Callum.
 This repo uses [pre-commit](https://pre-commit.com/) to enforce markdown formatting via `.markdownlint.jsonc`. After cloning, run:
 
 ```bash
-pip install pre-commit
+pip3 install pre-commit
 pre-commit install
 ```
 
