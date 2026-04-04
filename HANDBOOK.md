@@ -416,8 +416,8 @@ flowchart TD
 
 ## Contribution Table
 
-| Team Member | Contribution | Verified By |
-|---|---|---|
-| Stela |  |  |
-| John |  |  |
-| Callum |  |  |
+| Team Member | Contribution                                                                                                                                                                                                                                                                                                                                                                               | Verified By |
+|---|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
+| John | - Set up the initial repo structure, sections, and project files<br>- Added markdownlint pre-commit hook and fixed linting issues across the project<br>- Researched 5 sources for Task Estimation in Scrum<br>- Researched 2 extra sources for Automated Testing<br>- Wrote the Task Estimation in Scrum section<br>- Created diagram and checklist for the Automated Testing section     | Stela, Callum |
+| Stela | - Created the team handbook skeleton<br>- Wrote the handbook introduction<br>- Researched 5 sources for Code Reviews<br>- Wrote the Code Reviews section<br>- Assembled the Code Reviews section into the handbook<br>- Researched 2 extra sources for Task Estimation<br>- Found the story points diagram for Task Estimation<br>- Reformatted titles and subheadings across the handbook | John, Callum |
+| Callum | - Created research templates for all topics<br>- Researched 5 sources for Automated Testing<br>- Researched extra sources for Code Reviews<br>- Wrote the first draft of the Automated Testing section<br>- Created diagram and checklist for the Code Reviews section<br>- Assembled the full handbook from individual sections <br>- Constructed the retro document                      | John, Stela |
